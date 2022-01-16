@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kerstoheizche
+- 👋 Hi, I’m @Izebergozz
 - 👀 I’m interested in metal music, reading, web developing.
 - 🌱 I’m currently learning html, css, js and python.
 - 💞️ I’m looking to collaborate on ...
